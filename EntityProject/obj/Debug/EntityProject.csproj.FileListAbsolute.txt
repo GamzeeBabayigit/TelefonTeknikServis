@@ -1,0 +1,77 @@
+c:\users\hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityProject.exe.config
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityProject.exe
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityProject.pdb
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityFramework.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityFramework.xml
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.csprojResolveAssemblyReference.cache
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.AnaSayfa.resources
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.Arama.resources
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.Form1.resources
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.Cache
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.exe
+C:\Users\Hp\documents\visual studio 2013\Projects\EntityProject\EntityProject\obj\Debug\EntityProject.pdb
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityProject.exe.config
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.exe
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.pdb
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityProject.exe
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityProject.pdb
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.AnaSayfa.resources
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.Arama.resources
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.Form1.resources
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\new entitiy\EntityProject\EntityProject\EntityProject\obj\Debug\EntityProject.iadeVEteslim.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityProject.exe.config
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.exe
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.pdb
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityProject.exe
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityProject.pdb
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\de\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\es\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\fr\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\it\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\ja\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\ko\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\ru\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\zh-Hans\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\bin\Debug\zh-Hant\Microsoft.Data.Entity.Design.Extensibility.resources.dll
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.AnaSayfa.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.Arama.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.Form1.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.iadeVEteslim.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+C:\Users\Hp\Desktop\2018-2019 nesnesye yönelik\164410043-Gamze-Babayiğit-TeknikServis\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.Cache
